@@ -1,0 +1,31 @@
+{
+  "name": "custom-icon",
+  "version": "1.0.0",
+  "description": "this package allows you to easily use all the icons of the exhibition in the blink of an eye",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birladotech/CustomIcon.git"
+  },
+  "keywords": [
+    "expo-vector-icons",
+    "icons",
+    "react-native",
+    "custom",
+    "icon"
+  ],
+  "author": "birladotech,sylainx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birladotech/CustomIcon/issues"
+  },
+  "homepage": "https://github.com/birladotech/CustomIcon#readme",
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
+    "react": "^18.0.0",
+    "react-native": "^0.68.0"
+  }
+}
